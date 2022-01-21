@@ -1,0 +1,33 @@
+body{
+    font-family: 'Comic Neue', cursive; 
+    background-color: lightblue;
+}
+.header_div{
+    background-color: wheat;
+    color: midnightblue;
+}
+.header_div p{
+    font-family: 'Comic Neue', cursive;
+    color: slateblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bol;
+}
+.main_div button{
+    font-family: 'Comic Neue', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolde;
+    letter-spacing: 3px;
+}
+.copyRightFooter{
+    position: fixed;
+    color:red;
+    background-color: turquoise;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px darkgreen;
+}
